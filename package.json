@@ -2,7 +2,7 @@
   "name": "react-skillicons",
   "version": "1.0.0",
   "description": "Showcase your skills with Skill Icons!",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "build": "webpack"
   },
@@ -19,5 +19,18 @@
     "skill-icons"
   ],
   "author": "willywdev",
-  "license": "MIT"
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./index.jsx",
+      "require": "./index.jsx",
+      "types": "./index.d.ts"
+    },
+    "./icons/*.svg": {
+      "import": "./icons/*.svg"
+    }
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
 }
