@@ -1,0 +1,27 @@
+{
+  "name": "tandpfun-skillicons-npm",
+  "version": "1.0.0",
+  "description": "Showcase your skills with Skill Icons!",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "icons",
+    "images",
+    "readme",
+    "skills",
+    "skillicons",
+    "skillicon",
+    "skill-icon",
+    "skill-icons"
+  ],
+  "author": "willywdev",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
