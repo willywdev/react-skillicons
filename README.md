@@ -1,8 +1,6 @@
 # React-Skillicons
 
-A collection of skill icons for showcasing your developer skills in your React projects.
-
-**Icons are created by [tandpfun](https://github.com/tandpfun/skill-icons)**
+Use [Skill Icons by tandpfun](https://github.com/tandpfun/skill-icons) in React!
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -374,4 +372,4 @@ To see all Icons visit [skillicons.dev](https://skillicons.dev/)
 
 Here is the original author of Skill Icons
 
-[Skill Icons](https://github.com/tandpfun/skill-icons/tree/main)
+[Tandpfun](https://github.com/tandpfun)
