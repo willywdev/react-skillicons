@@ -2,7 +2,7 @@
   "name": "skillicons-npm",
   "version": "1.0.0",
   "description": "Showcase your skills with Skill Icons!",
-  "main": "dist/bundle.js",
+  "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack"
   },
@@ -19,10 +19,5 @@
     "skill-icons"
   ],
   "author": "willywdev",
-  "license": "MIT",
-  "devDependencies": {
-    "svg-inline-loader": "^0.8.2",
-    "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
-  }
+  "license": "MIT"
 }
