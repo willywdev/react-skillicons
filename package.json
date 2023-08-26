@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Showcase your skills with Skill Icons!",
   "main": "index.jsx",
-  "scripts": {
-    "build": "webpack"
-  },
+  "scripts": {},
   "keywords": [
     "npm",
     "javascript",
