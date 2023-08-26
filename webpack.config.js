@@ -9,5 +9,13 @@ module.exports = {
     libraryTarget: "umd", // Universal Module Definition
     umdNamedDefine: true,
   },
+  module: {
+    rules: [
+      {
+        test: /\.svg$/,
+        use: "svg-inline-loader",
+      },
+    ],
+  },
   mode: "development", // Set to 'development' during development
 };
