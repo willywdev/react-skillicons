@@ -1,8 +1,8 @@
 {
-  "name": "skillicons-npm",
+  "name": "react-skillicons",
   "version": "1.0.0",
   "description": "Showcase your skills with Skill Icons!",
-  "main": "./dist/bundle.js",
+  "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
